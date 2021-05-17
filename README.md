@@ -1,6 +1,6 @@
 # :octocat: Emerson Silva
 
-Estudante da área de tecnologia da informação, atuando na area de desenvolvedor.
+Estudante da área de tecnologia da informação, atuando na área de desenvolvedor.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Emerson916)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/emerson-silva-32441717a/)
