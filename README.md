@@ -1,4 +1,4 @@
-# :octocat: Hi, Emerson Silva
+# :octocat: Hi, Emerson Silva!!
 
 Estudante da área de tecnologia da informação, atuando na área de desenvolvedor.
 
