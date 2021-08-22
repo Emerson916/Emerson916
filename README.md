@@ -1,4 +1,4 @@
-# :octocat: Hi, Emerson Silva!!
+# :octocat: Hi, Emerson Silva!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Estudante da área de tecnologia da informação, atuando na área de desenvolvedor.
 
@@ -28,7 +28,14 @@ Student in the information technology area, working in the developer area.
 [![Anurag's github stats]( https://github-readme-stats.vercel.app/api?username=Emerson916&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson916&layout=compact&&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/Emerson916/github-readme-stats)
 
-## 💡 Dica para treinar lógica de programação
+<a href="https://github.com/Emerson916" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Emerson916?label=Github&color=891ad9&style=flat">
+  </a>
+  <a href="https://github.com/Emerson916" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Emerson916&label=Profile%20views&color=891ad9&style=flat" alt="Emerson916" />
+  </a> 
+  
+  ## 💡 Dica para treinar lógica de programação
 
 - [Hackerrank](https://www.hackerrank.com/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
