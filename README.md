@@ -29,11 +29,11 @@ Student in the information technology area, working in the developer area.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson916&layout=compact&&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/Emerson916/github-readme-stats)
 
 <a href="https://github.com/Emerson916" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Emerson916?label=Github&color=891ad9&style=flat">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Emerson916?label=Github&color=891ad9&style=flat" width="100" height="30">
   </a>
   <a href="https://github.com/Emerson916" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Emerson916&label=Profile%20views&color=891ad9&style=flat" alt="Emerson916" />
-  </a> 
+    <img src="https://komarev.com/ghpvc/?username=Emerson916&label=Profile%20views&color=891ad9&style=flat" alt="Emerson916" width="130" height="30"/>
+  </a>  
   
   ## 💡 Dica para treinar lógica de programação
 
