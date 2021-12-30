@@ -50,9 +50,9 @@ Student in the information technology area, working in the developer area.
 <a href="https://github.com/Emerson916" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Emerson916?label=Github&color=891ad9&style=flat" width="70" height="20">
   </a>
-  <a href="https://github.com/Emerson916" target="_blank">
+<!--   <a href="https://github.com/Emerson916" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Emerson916&label=Profile%20views&color=891ad9&style=flat" alt="Emerson916" width="100" height="20"/>
-  </a>  
+  </a>   -->
   
   ## 💡 Pratique um pouco
 
