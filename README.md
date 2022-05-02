@@ -1,4 +1,4 @@
-# :octocat: Hi, Emerson Silva!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- # :octocat: Hi, Emerson Silva!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -12,8 +12,10 @@
  <a href="https://www.linkedin.com/in/emerson-silva-32441717a/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/emerson-silva-32441717a/"/>
   </a>
+  
+  <p><p/>
  
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-1C1C1C?style=flat-square&logo=Gmail&logoColor=00FFFF)](mailto:emersons.a296@gmail.com)
+<!--  [![Gmail Badge](https://img.shields.io/badge/-Gmail-1C1C1C?style=flat-square&logo=Gmail&logoColor=00FFFF)](mailto:emersons.a296@gmail.com) -->
 
 
 
