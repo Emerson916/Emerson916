@@ -1,15 +1,17 @@
 # :octocat: Hi, Emerson Silva!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-* <p>👾 Sempre aprendendo algo novo!!</p>
-* <p>📚 Em busca do conhecimento!!</p>
+* <p align="left" >💾 Olá, meu nome é Emerson Silva. Sou <strong>Programador</strong>. </p>
+* <p align="left">👾 Sempre aprendendo algo novo!!</p>
+* <p align="left">📚 Em busca do conhecimento!!</p>
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Entre em contato
 
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Emerson916)
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/emerson-silva-32441717a/)
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:emersons.a296@gmail.com)
+ <a href="https://www.linkedin.com/in/emerson-silva-32441717a/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/emerson-silva-32441717a/"/>
+  </a>
+ 
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-1C1C1C?style=flat-square&logo=Gmail&logoColor=00FFFF)](mailto:emersons.a296@gmail.com)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -36,5 +38,7 @@
 
 [![Anurag's github stats]( https://github-readme-stats.vercel.app/api?username=Emerson916&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson916&layout=compact&&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/Emerson916/github-readme-stats)
+
+
 
   
