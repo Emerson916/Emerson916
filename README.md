@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  -->
 
-### :octocat: GITHUB
+<!-- ### :octocat: GITHUB -->
 
 [![Anurag's github stats]( https://github-readme-stats.vercel.app/api?username=Emerson916&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson916&layout=compact&&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/Emerson916/github-readme-stats)
