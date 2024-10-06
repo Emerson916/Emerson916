@@ -2,44 +2,26 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-* <p align="left" >💾 Olá, meu nome é Emerson Silva, Sou <strong>Programador Jr</strong>. </p>
-* <p align="left">👾 Sempre aprendendo algo novo!!</p>
-* <p align="left">📚 Em busca do conhecimento!!</p>
+Sou um desenvolvedor full-stack apaixonado por criar soluções que conectam o usuário à tecnologia de forma intuitiva e eficiente. Minha experiência me permite desenvolver aplicativos e sites envolventes, com um backend robusto que garante desempenho e escalabilidade. Estou sempre em busca de novos desafios e inovações que possam aprimorar a experiência do usuário e otimizar processos. 🚀
 
+
+- 🔭 Explorando novas tecnologias  
+  
+- 👾 Sempre aprendendo algo novo  
+  
+- 👽 Em busca do conhecimento
+
+<br />
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Entre em contato
 
- <a href="https://www.linkedin.com/in/emerson-s-almeida/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/emerson-s-almeida/"/>
-  </a>
+<a href="https://github.com/Emerson916" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/emerson-s-almeida" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
   
-  <p><p/>
- 
-<!--  [![Gmail Badge](https://img.shields.io/badge/-Gmail-1C1C1C?style=flat-square&logo=Gmail&logoColor=00FFFF)](mailto:emersons.a296@gmail.com) -->
-
-
-
-<!-- ### <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Linguagens e ferramentas -->
-<!-- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![MySql](https://img.shields.io/badge/Mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-f72537?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- -->
-
-<!-- ### :octocat: GITHUB -->
-
 [![Anurag's github stats]( https://github-readme-stats.vercel.app/api?username=Emerson916&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson916&layout=compact&&repo=github-readme-stats&cache_seconds=86400&theme=radical)](https://github.com/Emerson916/github-readme-stats)
 
